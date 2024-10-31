@@ -1,3 +1,6 @@
+@import url('/vendor/yungifez/artisan-ui/dist/artisan.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
